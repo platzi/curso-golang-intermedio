@@ -1,0 +1,5 @@
+mode: set
+github.com/nestor94/testing/main.go:3.24,5.2 1 1
+github.com/nestor94/testing/main.go:7.27,8.11 1 1
+github.com/nestor94/testing/main.go:11.2,11.10 1 1
+github.com/nestor94/testing/main.go:8.11,10.3 1 1
