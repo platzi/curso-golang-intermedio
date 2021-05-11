@@ -1,0 +1,4 @@
+github.com/donvito/hellomod v1.0.1 h1:tOU3KDwvrGW7QUHXYQnk6YUD+92aTsRmJItJTD9f4I4=
+github.com/donvito/hellomod v1.0.1/go.mod h1:DuOSvrBCwGkjX0WS5ohdpC/q67fS0Mde3LEM+2jeHSw=
+github.com/donvito/hellomod/v2 v2.0.0 h1:HVot/mBxIZnlHDfHFc+C3xgQw8fUvcD+NH+PMQgw0YQ=
+github.com/donvito/hellomod/v2 v2.0.0/go.mod h1:reCGCr/bqssULXSB7Zx+QpY3oO+PjFahV3ZRmiaJazw=
