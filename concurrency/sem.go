@@ -6,14 +6,14 @@ import (
 	"time"
 )
 
-// c := [][]
+// c := [][][][][]
 // c := [goRoutine1][goRoutine2]
 // c:= [goRoutine3][goRoutine2]
 
 func main() {
 	c := make(chan int, 5)
 	var wg sync.WaitGroup
-	for i := 0; i < 10; i++ {
+	for i := 0; i < 100000000000; i++ {
 		c <- 1
 		wg.Add(1)
 		go doSomething(i, &wg, c)
